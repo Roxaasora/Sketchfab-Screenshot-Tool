@@ -2,7 +2,7 @@
 
 A web-based tool for capturing high-resolution screenshots of 3D models from Sketchfab, recreating the functionality of the discontinued Sketchfab Labs Screenshots experiment.
 
-🔗 **[Live Demo](https://github.com/LaurieAnnis/Sketchfab-Screenshot-Tool)** 
+🔗 **[Live Demo](https://laurieannis.github.io/Sketchfab-Screenshot-Tool/)** 
 
 ## Features
 
